@@ -4,7 +4,7 @@
 ### WhoamI
 👋 Hi, I’m @bodharma aka Bohdan Lesiv.
 
-I am Engineer, worked on various positions as SET, Python BE, Golang BE, AQA, Automation Test Lead.
+I am Software Engineer.
 
 ---
 
