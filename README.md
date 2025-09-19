@@ -10,7 +10,7 @@ I am Software Engineer.
 
 #### Technologies worked with
 
-[CV for clients](https://bodh.notion.site/Lesiv-Bohdan-Python-Software-Engineer-df8e19bc445b4fafa05555a36bb54d46)
+[CV for clients](https://reactiveresume-eggs00go4k8kow4oocwk80sg.lesiv.dev/b0dharma/python-se)
 
 ---
 
